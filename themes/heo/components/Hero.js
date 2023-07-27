@@ -228,7 +228,7 @@ function TodayCard({ cRef }) {
                     <div id='more' className='select-none'>更多推荐</div>
                 </div>
             </div>
-            <div id='today-card-cover' className={`${isCoverUp ? '' : ' pointer-events-none'} cursor-pointer today-card-cover absolute w-full h-full top-0`} style={{ background: "url('https://bu.dusays.com/2023/03/12/640dcd3a1b146.png') no-repeat center /cover" }}></div>
+            <div id='today-card-cover' className={`${isCoverUp ? '' : ' pointer-events-none'} cursor-pointer today-card-cover absolute w-full h-full top-0`} style={{ background: "url('https://file.notion.so/f/s/64716d34-f152-44b5-a471-32948f69b77b/DM_20230727150212_001.webp?id=ad3f8839-c849-4f90-b949-dc2f8a4fabf4&table=block&spaceId=977e1cf4-5f82-4814-bda4-f0ea9279030f&expirationTimestamp=1690531200000&signature=FtKHA0AZA6NCBMXHbAm6-Sobv8sjWOdv0LhrO9y9DUA&downloadName=DM_20230727150212_001.webp') no-repeat center /cover" }}></div>
         </div>
     </div>
 }
