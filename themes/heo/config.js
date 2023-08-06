@@ -12,7 +12,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享生活',
   HERO_TITLE_2: '体验人生',
-  HERO_TITLE_3: '徐徐道来',
+  HERO_TITLE_3: '这些技能我都不会',
   HERO_TITLE_4: '初心已改',
   HERO_TITLE_5: '徐徐的个人博客',
   HERO_TITLE_LINK: 'https://tangly1024.com',
